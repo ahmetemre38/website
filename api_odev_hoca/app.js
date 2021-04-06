@@ -1,4 +1,4 @@
-const baseUrl = 'http://jsonplaceholder.typicode.com';
+const baseUrl = 'https://jsonplaceholder.typicode.com';
 const selectElement = document.querySelector('#users');
 const listElement = document.querySelector('#todos');
 const searchinput = document.querySelector('#search');
