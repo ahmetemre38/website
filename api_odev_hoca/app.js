@@ -1,4 +1,6 @@
-const baseUrl = 'https://jsonplaceholder.typicode.com';
+//NodeJs_Odev projesi çalıştırılır ve backend olarak baseurl ayarlanır.
+const baseUrl = 'http://localhost:3000';
+//const baseUrl = 'https://jsonplaceholder.typicode.com';
 const selectElement = document.querySelector('#users');
 const listElement = document.querySelector('#todos');
 const searchinput = document.querySelector('#search');
